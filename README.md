@@ -4,19 +4,19 @@ https://docs.google.com/document/d/1oxgG_UMSRQOnZq_QIScpXHCswjfsTDcZAeadutEXzxA/
 ------------------------------------------
 | STT | Họ tên                | Đầu việc |
 |-----|-----------------------|----------|
-|  1  | Nguyễn Trần Minh Thái |     A    |--
-|  2  | Bùi Công Sơn          |     C    |--
-|  3  | Đinh Công Thịnh       |     D    |--
-|  4  | Nguyễn Anh Tuấn       |     B    |--
+|  1  | Nguyễn Trần Minh Thái |     A    |
+|  2  | Bùi Công Sơn          |     C    |
+|  3  | Đinh Công Thịnh       |     D    |
+|  4  | Nguyễn Anh Tuấn       |     B    |
 ------------------------------------------
-ĐẦU VIỆC: \
+ĐẦU VIỆC: 
 ---
 (A) Quản lý phạm vi: Lập kế hoạch; Thu thập và Định nghĩa phạm vi; Tạo WBS; \
 (B) Quản lý lịch trình: Lập kế hoạch; Xác định các hoạt động; Ước lượng thời gian; Xây dựng lịch trình \
 (C) Quản lý chi phí: Lập kế hoạch; Ước lượng chi phí; Xác định nguồn kinh phí và đề xuất; \
 (D) Quản lý nguồn lực: Lập kế hoạch; Ước lượng nguồn lực; Phát triển và quản lý đội nhóm 
 
-QUY ĐỊNH CHUNG: \
+QUY ĐỊNH CHUNG: 
 ---
 Heading 1: Times, 20, Bold <I; II, III ...> \
 Heading 2: Times, 16, Bold <1; 2; 3 ...> \
