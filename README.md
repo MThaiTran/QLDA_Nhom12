@@ -3,10 +3,10 @@ https://docs.google.com/document/d/1oxgG_UMSRQOnZq_QIScpXHCswjfsTDcZAeadutEXzxA/
 ------------------------------------------
 | STT | Họ tên                | Đầu việc |
 |-----|-----------------------|----------|
-|  1  | Nguyễn Trần Minh Thái |          |--
-|  2  | Bùi Công Sơn          |          |--
-|  3  | Đinh Công Thịnh       |          |--
-|  4  | Nguyễn Anh Tuấn       |          |--
+|  1  | Nguyễn Trần Minh Thái |     A    |--
+|  2  | Bùi Công Sơn          |     C    |--
+|  3  | Đinh Công Thịnh       |     D    |--
+|  4  | Nguyễn Anh Tuấn       |     B    |--
 ------------------------------------------
 ĐẦU VIỆC: \
 (A) Quản lý phạm vi: Lập kế hoạch; Thu thập và Định nghĩa phạm vi; Tạo WBS; \
