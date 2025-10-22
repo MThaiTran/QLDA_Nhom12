@@ -19,7 +19,7 @@ Heading 1: Times, 20, Bold <I; II, III ...> \
 Heading 2: Times, 16, Bold <1; 2; 3 ...> \
 Heading 3: Times, 14, Bold <1.1; 1.2; 2.1 ...> \
 Heading 4: Times, 14, Bold <1.1.1; 1.2.3; 2.1.1 ...> \
-...
+... \
 Normal:    Times, 14 \
 List: Bullet + tab
 ---
